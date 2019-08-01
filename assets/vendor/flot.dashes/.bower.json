@@ -1,0 +1,16 @@
+{
+  "name": "flot.dashes",
+  "homepage": "https://github.com/cquartier/flot.dashes",
+  "main": "jquery.flot.dashes.js",
+  "dependencies": {
+    "flot": ">= 0.8.0"
+  },
+  "_release": "454016a8d6",
+  "_resolution": {
+    "type": "commit",
+    "commit": "454016a8d61b3e7af375e4ffda36c7c55413f62b"
+  },
+  "_source": "https://github.com/cquartier/flot.dashes.git",
+  "_target": "454016a8d61b3e7af375e4ffda36c7c55413f62b",
+  "_originalSource": "https://github.com/cquartier/flot.dashes.git"
+}
