@@ -1,0 +1,43 @@
+{
+  "_from": "github:icons8/line-awesome",
+  "_id": "line-awesome@0.9.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/line-awesome",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:icons8/line-awesome",
+    "rawSpec": "github:icons8/line-awesome",
+    "saveSpec": "github:icons8/line-awesome",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "github:icons8/line-awesome#912ed9f69c1e99ef3c451af2e8e58c5f7b6e3af9",
+  "_spec": "github:icons8/line-awesome",
+  "_where": "C:\\Users\\Mogol\\Downloads\\sing-app-master",
+  "bugs": {
+    "url": "https://github.com/icons8/line-awesome/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Line awesome icons pack",
+  "homepage": "https://github.com/icons8/line-awesome#readme",
+  "keywords": [
+    "font",
+    "awesome",
+    "icons",
+    "icons8"
+  ],
+  "license": "MIT",
+  "name": "line-awesome",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/icons8/line-awesome.git"
+  },
+  "version": "0.9.0"
+}
